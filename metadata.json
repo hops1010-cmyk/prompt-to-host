@@ -1,0 +1,6 @@
+{
+  "name": "Prompt to Host Workflow",
+  "description": "A tranquil, step-by-step generative engineering companion guiding non-developers from plain-language prompts to production web applications across Claude, Google Stitch, AI Studio, GitHub, and Vercel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
